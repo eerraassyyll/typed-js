@@ -127,16 +127,24 @@ string нельзя присвоить object
 
 <br><br>
 
-
+<img width="507" height="232" alt="image" src="https://github.com/user-attachments/assets/ee3834a5-1778-408b-82ea-341c0122be41" />
+<img width="743" height="645" alt="image" src="https://github.com/user-attachments/assets/21bb9fa5-f66e-4ea9-ba96-447db93a0f73" />
 <br><br>
 
-
+<img width="543" height="472" alt="image" src="https://github.com/user-attachments/assets/f34ffe0e-59ca-424a-9061-8700889fdde3" />
+1. x,y: number
+2. [], number
 <br><br>
 
-
+<img width="513" height="153" alt="image" src="https://github.com/user-attachments/assets/f45b3fac-48e9-4c0a-a775-e600ce815e42" />
+string
 <br><br>
 
-
+<img width="506" height="221" alt="image" src="https://github.com/user-attachments/assets/482df1ae-b4f0-4c89-9ec8-774d1877097b" />
+<br>
+123
+<br>
+abc
 <br><br>
 
 
