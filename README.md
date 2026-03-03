@@ -98,7 +98,83 @@
 <br><br>
 
 <img width="452" height="146" alt="image" src="https://github.com/user-attachments/assets/008329b2-0dfa-433b-b100-99fd6aba9b13" />
-2025-12-
+{year: 2025, month: 12}
 <br><br>
+
+<img width="550" height="152" alt="image" src="https://github.com/user-attachments/assets/7c65ab02-4e4b-4b47-be80-41cc5f0db1e8" />
+{year: 2025, month: 12, date: 7}
+<br><br>
+
+<img width="544" height="181" alt="image" src="https://github.com/user-attachments/assets/e3976e36-111f-4b17-8443-19ae2847b8c1" />
+{year: 2025, month: '12', day: 31}
+<br><br>
+
+<img width="538" height="192" alt="image" src="https://github.com/user-attachments/assets/0a60b366-f94d-4ad3-9ebd-86a2a5bb9437" />
+{code: 123, name: 'apple', price: 12}
+<br><br>
+
+<img width="546" height="180" alt="image" src="https://github.com/user-attachments/assets/b1cae78e-054c-40ba-bddf-09d9ca371c91" />
+{code: '123', name: 'apple', price: 123}
+
+<br><br>
+
+<img width="547" height="166" alt="image" src="https://github.com/user-attachments/assets/bf447757-e2ad-443f-93b2-5978d4cf3bf2" />
+{name: 'john', admin: 'false'}
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
 
 <br><br>
