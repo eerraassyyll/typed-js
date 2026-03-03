@@ -153,19 +153,94 @@ console.log(arr);
 <br><br>
 
 <img width="542" height="222" alt="image" src="https://github.com/user-attachments/assets/57a401b1-b48b-4bef-8b7e-a5c0cd4550ce" />
-
+1. let test: number | null;
+2. let test: number | string | boolean;
 <br><br>
 
-
+<img width="541" height="222" alt="image" src="https://github.com/user-attachments/assets/62b21d53-7742-4095-a631-a23ec33e433f" />
+1. type unf = null | undefined;<br>
+2. type boolunf = boolean | null | undefined;
 <br><br>
 
-
+<img width="516" height="78" alt="image" src="https://github.com/user-attachments/assets/d7a943bc-0fb5-433e-bbc8-f7538529b789" />
+let str: 'success' | 'error' | 'warning';
 <br><br>
 
-
+<img width="546" height="335" alt="image" src="https://github.com/user-attachments/assets/f918596b-a1ed-4171-9543-ce0ca24bc0d0" />
+<br><img width="561" height="277" alt="image" src="https://github.com/user-attachments/assets/18500544-2fa6-462c-8824-b3c3b11452c7" />
+<br><img width="611" height="280" alt="image" src="https://github.com/user-attachments/assets/dbd04d3e-17d3-40ac-a012-deb401041510" />
+<br><img width="690" height="310" alt="image" src="https://github.com/user-attachments/assets/d0aa7d9d-688d-4dcf-a40e-0845e8433653" />
 <br><br>
 
+<img width="510" height="128" alt="image" src="https://github.com/user-attachments/assets/9dca6409-17fd-45f2-9950-d0b6a28e9d20" />
+[13, 59, 59]
+<br><br>
 
+<img width="513" height="143" alt="image" src="https://github.com/user-attachments/assets/424fb284-a7ed-446d-9116-534ecfd65d1d" />
+string не присвоить number
+<br><br>
+
+<img width="505" height="143" alt="image" src="https://github.com/user-attachments/assets/159191b3-c10a-476b-bfc2-cd57017499e1" />
+ошибка readonly позволяет только читать но не изменять. 
+<br><br>
+
+<img width="512" height="133" alt="image" src="https://github.com/user-attachments/assets/75d202b9-a08c-4795-abb8-e0afb405d8f9" />
+date = [2024, 6];
+<br><br>
+
+<img width="512" height="140" alt="image" src="https://github.com/user-attachments/assets/5de9c96a-afa2-4f45-b576-25ef916f5a3c" />
+let [hours, minutes, seconds] = time;
+<br><br>
+
+<img width="545" height="328" alt="image" src="https://github.com/user-attachments/assets/05ed49bc-b71a-4035-9456-12eea8e0314c" />
+1. tpl = ['str1', 'str2', 1, 2, 3, 4, 5];<br>
+2. tpl = [42, true, 'str1', 'str2', 'str3'];
+<br><br>
+
+<img width="495" height="72" alt="image" src="https://github.com/user-attachments/assets/902ed35b-e947-4d6f-a7f1-8a8faa81b6b0" />
+enum Weekday { Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday };
+<br><br>
+
+<img width="492" height="125" alt="image" src="https://github.com/user-attachments/assets/3cb730f1-6d77-4620-834b-b32cc00b1b00" />
+Oranges
+<br><br>
+
+<img width="504" height="135" alt="image" src="https://github.com/user-attachments/assets/33cad2b5-32b0-48f6-858b-781bdb11bba9" />
+0
+<br><br>
+
+<img width="512" height="97" alt="image" src="https://github.com/user-attachments/assets/2cdfedbf-3195-4b31-9653-dc757d871678" />
+enum Months { January = 1, February = 2, March = 3, April = 4, May = 5, June = 6, July = 7, August = 8, September = 9, October = 10, November = 11, December = 12 };
+<br><br>
+
+<img width="508" height="150" alt="image" src="https://github.com/user-attachments/assets/a21a3d89-8e93-4242-8136-85634a520cd5" />
+4
+<br><br>
+
+<img width="542" height="220" alt="image" src="https://github.com/user-attachments/assets/4f7cd7b3-9529-48eb-a45d-36860781c127" />
+1. enum Weekday {
+    Monday = 'Monday',
+    Tuesday = 'Tuesday',
+    Wednesday = 'Wednesday',
+    Thursday = 'Thursday',
+    Friday = 'Friday',
+    Saturday = 'Saturday',
+    Sunday = 'Sunday'
+}
+<br> 2.enum Month {
+    January = 'January',
+    February = 'February',
+    March = 'March',
+    April = 'April',
+    May = 'May',
+    June = 'June',
+    July = 'July',
+    August = 'August',
+    September = 'September',
+    October = 'October',
+    November = 'November',
+    December = 'December'
+}
 <br><br>
 
 
