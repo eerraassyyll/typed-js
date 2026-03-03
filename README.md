@@ -94,7 +94,7 @@
 <br><br>
 
 <img width="461" height="158" alt="image" src="https://github.com/user-attachments/assets/1cbbc3f9-4adb-485f-a3bf-fcd7d5530347" />
-2025-12-31
+string нельзя присвоить object
 <br><br>
 
 <img width="452" height="146" alt="image" src="https://github.com/user-attachments/assets/008329b2-0dfa-433b-b100-99fd6aba9b13" />
@@ -122,6 +122,8 @@
 {name: 'john', admin: 'false'}
 <br><br>
 
+<img width="855" height="1032" alt="image" src="https://github.com/user-attachments/assets/8fd7294c-6dc1-4f42-988e-d8a1e2b32668" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/8e445385-43e6-4aa9-9f0c-6dfbf0786483" />
 
 <br><br>
 
