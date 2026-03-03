@@ -147,9 +147,12 @@ string
 abc
 <br><br>
 
-
+<img width="513" height="158" alt="image" src="https://github.com/user-attachments/assets/982dd32e-748e-4b62-a282-3be9cbe61c9c" />
+let arr: any[] = [1, '2', '3', 4, 5];
+console.log(arr);
 <br><br>
 
+<img width="542" height="222" alt="image" src="https://github.com/user-attachments/assets/57a401b1-b48b-4bef-8b7e-a5c0cd4550ce" />
 
 <br><br>
 
