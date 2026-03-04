@@ -210,7 +210,7 @@ Oranges
 <br><br>
 
 <img width="512" height="97" alt="image" src="https://github.com/user-attachments/assets/2cdfedbf-3195-4b31-9653-dc757d871678" />
-enum Months { January = 1, February = 2, March = 3, April = 4, May = 5, June = 6, July = 7, August = 8, September = 9, October = 10, November = 11, December = 12 };
+<code>enum Months { January = 1, February = 2, March = 3, April = 4, May = 5, June = 6, July = 7, August = 8, September = 9, October = 10, November = 11, December = 12 };</code>
 <br><br>
 
 <img width="508" height="150" alt="image" src="https://github.com/user-attachments/assets/a21a3d89-8e93-4242-8136-85634a520cd5" />
@@ -218,7 +218,7 @@ enum Months { January = 1, February = 2, March = 3, April = 4, May = 5, June = 6
 <br><br>
 
 <img width="542" height="220" alt="image" src="https://github.com/user-attachments/assets/4f7cd7b3-9529-48eb-a45d-36860781c127" />
-1. enum Weekday {
+1. <code>enum Weekday {
     Monday = 'Monday',
     Tuesday = 'Tuesday',
     Wednesday = 'Wednesday',
@@ -226,8 +226,8 @@ enum Months { January = 1, February = 2, March = 3, April = 4, May = 5, June = 6
     Friday = 'Friday',
     Saturday = 'Saturday',
     Sunday = 'Sunday'
-}
-<br> 2.enum Month {
+}</code>
+<br> <code>2.enum Month {
     January = 'January',
     February = 'February',
     March = 'March',
@@ -240,7 +240,7 @@ enum Months { January = 1, February = 2, March = 3, April = 4, May = 5, June = 6
     October = 'October',
     November = 'November',
     December = 'December'
-}
+}</code>
 <br><br>
 
 <img width="494" height="81" alt="image" src="https://github.com/user-attachments/assets/b583e8a3-21f0-4f16-bd98-c34bafbdc2b9" />
@@ -265,6 +265,130 @@ let reg: RegExp = /.+?/;
 <code>
     let list: HTMLUListElement = document.querySelector('ul')!;
 </code>
+<br><br>
+
+<img width="493" height="73" alt="image" src="https://github.com/user-attachments/assets/e3be8776-860b-48a6-b6d6-8cd7a6212ecd" />
+let myMap: Map<number, string> = new Map();
+
+<img width="490" height="68" alt="image" src="https://github.com/user-attachments/assets/6b6e13c3-9aef-4a4a-a8ad-8b50a46e72dc" />
+let mySet: Set<number> = new Set();
+
+<img width="485" height="63" alt="image" src="https://github.com/user-attachments/assets/14f6a658-0fbb-4877-89d4-5d02504ac116" />
+let nodes: NodeList = document.querySelectorAll('div');
+
+<img width="483" height="66" alt="image" src="https://github.com/user-attachments/assets/893c25e9-f04d-47b5-b3ae-d9c8ac41103e" />
+let elems: HTMLCollection = document.getElementsByTagName('div');
+<br><br>
+
+<img width="486" height="120" alt="image" src="https://github.com/user-attachments/assets/510d870d-9c7e-47a4-8869-0cc393ef678e" />    
+day числовое, нельзя присвоить строковое значение числовому
+<br><br>
+
+<img width="479" height="112" alt="image" src="https://github.com/user-attachments/assets/19e6b36d-fa4e-453d-80f5-a03c6ca45a46" />
+{year: 2025, month: 12}
+<br><br>
+
+<img width="489" height="156" alt="image" src="https://github.com/user-attachments/assets/c252e35a-413c-4fd2-8d79-47d24d324517" />
+<br>
+<code>
+    1. let employee: Employee = {name: 'john', age: 30, saleryday: 14};
+    2. let time: Time = {
+            hour: 4,
+        	minute: 16,
+        	second: 34
+        };
+</code>
+<br><br>
+
+<img width="485" height="65" alt="image" src="https://github.com/user-attachments/assets/9c1f8454-3024-4d64-9437-bc23d9c15f93" />
+<br>
+<code>
+let country: {
+	name: string,
+	cities: string[]
+};
+country = {
+	name: 'Astana',
+	cities: ['Kokshetau', 'Stepnogorsk', 'Makinsk', 'ChimkenD']
+}
+</code>
+<br><br>
+
+<img width="485" height="215" alt="image" src="https://github.com/user-attachments/assets/b727ed12-da1e-47a6-9632-1f9836bacc5c" />
+<br>
+<code>
+1. interface Event {
+	name: string,
+	time: {
+		start: string,
+		finish: string
+	}
+}
+</code>
+<br>
+<img width="490" height="278" alt="image" src="https://github.com/user-attachments/assets/fa2f3278-a847-468b-b595-2a529621f14f" />
+<br>
+<code>
+2. interface Employee {
+    name: string,
+   potision: {
+       name: string,
+       city: string
+   },
+    addr: {
+		country: string,
+		city: string
+	}
+}
+</code>
+<br><br>
+
+<img width="520" height="751" alt="image" src="https://github.com/user-attachments/assets/094a5b3b-503c-42ca-8939-fa23d72d3ca4" />
+<br>
+<code>
+1. interface Employee {
+   name: string,
+   potision: {
+       name: string,
+       city: string
+   },
+    addr: {
+		country: string,
+		city: string
+	}
+}
+2. 
+interface Parents {
+    mother: {
+        name: string,
+        age: number,
+        parents: null
+    },
+    father: {
+        name: string,
+        age: number,
+        parents: null
+    }
+}
+
+interface User {
+	name: string,
+	age: number,
+	parents: Parents
+}
+</code>
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
 <br><br>
 
 
