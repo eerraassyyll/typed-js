@@ -243,13 +243,28 @@ enum Months { January = 1, February = 2, March = 3, April = 4, May = 5, June = 6
 }
 <br><br>
 
-
+<img width="494" height="81" alt="image" src="https://github.com/user-attachments/assets/b583e8a3-21f0-4f16-bd98-c34bafbdc2b9" />
+let date: Date = new Date;
 <br><br>
 
-
+<img width="482" height="67" alt="image" src="https://github.com/user-attachments/assets/3a81b41e-2922-447a-8b7e-3a7a4fd541b4" />
+let reg: RegExp = /.+?/;
 <br><br>
 
-
+<img width="449" height="61" alt="image" src="https://github.com/user-attachments/assets/a2118e45-af7f-47e2-9c7c-30e2f18e77f4" />
+<code>
+    let promise: Promise<string> = new Promise((s, j) => {
+        s("readyyy");
+    });
+</code>
+<br>
+<code>
+    let elem: HTMLElement = document.querySelector('div')!;
+</code>
+<br>
+<code>
+    let list: HTMLUListElement = document.querySelector('ul')!;
+</code>
 <br><br>
 
 
