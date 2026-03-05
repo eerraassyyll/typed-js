@@ -457,7 +457,8 @@ let func = function(text: string): string {
 };
 </code>
 <br><br>
-<img width="522" height="172" alt="image" src="https://github.com/user-attachments/assets/6789082e-72c0-408f-bd3f-e41a0b14a3b3" />
+<img width="522" height="172" alt="image" src="https://github.com/user-attachments/assets/6789082e-72c0-408f-bd3f-e41a0b14a3b3" /><br>
+<img width="530" height="113" alt="image" src="https://github.com/user-attachments/assets/65b95bc1-b762-4c0c-9656-d12b64e0ace8" />
 
 <br>
 <code>
@@ -465,4 +466,6 @@ type Func = (x: number, y: number, z: number) => number;
 let func: Func = function(x: number, y: number, z: number): number {
 	return a+b+c
 }
+
+type Func2 = (x: number, arr: number[]) => number[];
 </code>
