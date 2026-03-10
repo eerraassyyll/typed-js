@@ -469,3 +469,34 @@ let func: Func = function(x: number, y: number, z: number): number {
 
 type Func2 = (x: number, arr: number[]) => number[];
 </code>
+<br><br>
+
+<img width="606" height="334" alt="image" src="https://github.com/user-attachments/assets/aa445778-6862-4863-be20-e33d5cdd90a5" />
+<code>[1,4,9]</code>
+<br><br>
+
+<img width="604" height="392" alt="image" src="https://github.com/user-attachments/assets/96900f24-cae2-49ac-9354-7d9d5246505f" />
+<img width="737" height="344" alt="image" src="https://github.com/user-attachments/assets/ed33e1ca-9cd9-425f-b8d5-49470d4a6a51" />
+<br><br>
+
+<img width="604" height="187" alt="image" src="https://github.com/user-attachments/assets/899cccfb-1bad-4c3d-ae62-942d738ca903" />
+<br>
+<code>
+let func = (num1: number, num2: number): number => num1 + num2;
+</code>
+<br><br>
+
+<img width="606" height="189" alt="image" src="https://github.com/user-attachments/assets/7ebda1f8-3f45-469c-9cc7-9144376ce5e2" />
+<br>
+<code>
+let func = (str: string): string[] => str.split('');
+</code>
+<br><br>
+
+<img width="604" height="205" alt="image" src="https://github.com/user-attachments/assets/a673b322-e5c4-406b-820e-3c338929b7e6" />
+<br>
+<code>
+let arr: number[] = [1, 2, 3];
+let res: number[] = arr.map((num: number): number => num ** 2);
+console.log(res);
+</code>
